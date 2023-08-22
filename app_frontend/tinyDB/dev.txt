@@ -1,0 +1,5 @@
+ Screen Dimensions 
+ {"fontScale": 1.100000023841858, 
+ "height": 914.2857142857143, 
+ "scale": 1.75, 
+ "width": 411.42857142857144}
